@@ -1,0 +1,17 @@
+{
+  "name": "myrepo",
+  "version": "1.0.0",
+  "description": "exploring github",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "https": "^1.0.0",
+    "nodemon": "^3.1.4"
+  }
+}
